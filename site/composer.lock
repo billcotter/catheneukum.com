@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "244638b380bcaa5d20d6a916a0d47b55",
     "content-hash": "36f60c2527cdc1af7748b0d912ada565",
     "packages": [
         {
@@ -125,7 +124,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-12-29 09:13:20"
+            "time": "2017-12-29T09:13:20+00:00"
         },
         {
             "name": "johnpbloch/wordpress",
@@ -164,7 +163,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2018-02-06 16:42:18"
+            "time": "2018-02-06T16:42:18+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core",
@@ -204,7 +203,7 @@
                 "cms",
                 "wordpress"
             ],
-            "time": "2018-02-06 16:42:13"
+            "time": "2018-02-06T16:42:13+00:00"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -253,7 +252,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2018-01-29 14:49:29"
+            "time": "2018-01-29T14:49:29+00:00"
         },
         {
             "name": "oscarotero/env",
@@ -295,7 +294,7 @@
             "keywords": [
                 "env"
             ],
-            "time": "2017-07-17 20:41:59"
+            "time": "2017-07-17T20:41:59+00:00"
         },
         {
             "name": "roots/soil",
@@ -340,7 +339,7 @@
             "keywords": [
                 "wordpress"
             ],
-            "time": "2017-08-14 01:36:41"
+            "time": "2017-08-14T01:36:41+00:00"
         },
         {
             "name": "roots/wp-password-bcrypt",
@@ -397,7 +396,7 @@
             "keywords": [
                 "wordpress wp bcrypt password"
             ],
-            "time": "2016-03-01 16:27:06"
+            "time": "2016-03-01T16:27:06+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -447,7 +446,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2016-09-01 10:05:43"
+            "time": "2016-09-01T10:05:43+00:00"
         },
         {
             "name": "wpackagist-plugin/akismet",
@@ -468,7 +467,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/akismet/",
-            "time": "2018-03-20 16:19:17"
+            "time": "2018-03-20T16:19:17+00:00"
         },
         {
             "name": "wpackagist-plugin/all-in-one-schemaorg-rich-snippets",
@@ -489,7 +488,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/",
-            "time": "2018-01-23 13:28:35"
+            "time": "2018-01-23T13:28:35+00:00"
         },
         {
             "name": "wpackagist-plugin/amazon-s3-and-cloudfront",
@@ -510,7 +509,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/amazon-s3-and-cloudfront/",
-            "time": "2018-02-22 22:08:27"
+            "time": "2018-02-22T22:08:27+00:00"
         },
         {
             "name": "wpackagist-plugin/amazon-web-services",
@@ -531,7 +530,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/amazon-web-services/",
-            "time": "2018-02-20 18:11:13"
+            "time": "2018-02-20T18:11:13+00:00"
         },
         {
             "name": "wpackagist-plugin/cmb2",
@@ -552,7 +551,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/cmb2/",
-            "time": "2017-12-20 14:32:25"
+            "time": "2017-12-20T14:32:25+00:00"
         },
         {
             "name": "wpackagist-plugin/coming-soon-page",
@@ -573,7 +572,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/coming-soon-page/",
-            "time": "2018-03-12 18:52:26"
+            "time": "2018-03-12T18:52:26+00:00"
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
@@ -594,7 +593,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/contact-form-7/",
-            "time": "2018-02-27 11:06:10"
+            "time": "2018-02-27T11:06:10+00:00"
         },
         {
             "name": "wpackagist-plugin/custom-post-type-ui",
@@ -615,7 +614,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/custom-post-type-ui/",
-            "time": "2018-03-08 04:35:23"
+            "time": "2018-03-08T04:35:23+00:00"
         },
         {
             "name": "wpackagist-plugin/ewww-image-optimizer",
@@ -636,7 +635,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/ewww-image-optimizer/",
-            "time": "2018-03-06 18:49:58"
+            "time": "2018-03-06T18:49:58+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-hooks",
@@ -657,7 +656,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-hooks/",
-            "time": "2012-04-22 19:52:06"
+            "time": "2012-04-22T19:52:06+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-latest-tweets",
@@ -678,7 +677,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-latest-tweets/",
-            "time": "2015-07-23 16:59:13"
+            "time": "2015-07-23T16:59:13+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-optimized-social-share",
@@ -699,7 +698,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-optimized-social-share/",
-            "time": "2014-12-17 05:32:46"
+            "time": "2014-12-17T05:32:46+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-portfolio",
@@ -720,7 +719,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-portfolio/",
-            "time": "2012-05-28 19:44:53"
+            "time": "2012-05-28T19:44:53+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-simple-hooks",
@@ -741,7 +740,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-simple-hooks/",
-            "time": "2018-03-01 01:33:39"
+            "time": "2018-03-01T01:33:39+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-simple-portfolio",
@@ -762,7 +761,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-simple-portfolio/",
-            "time": "2015-09-22 10:22:36"
+            "time": "2015-09-22T10:22:36+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-simple-share",
@@ -783,7 +782,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-simple-share/",
-            "time": "2017-11-01 14:37:33"
+            "time": "2017-11-01T14:37:33+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-subtitles",
@@ -804,7 +803,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-subtitles/",
-            "time": "2013-10-18 21:57:54"
+            "time": "2013-10-18T21:57:54+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-visual-hook-guide",
@@ -825,7 +824,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-visual-hook-guide/",
-            "time": "2017-04-09 01:25:16"
+            "time": "2017-04-09T01:25:16+00:00"
         },
         {
             "name": "wpackagist-plugin/genesis-widgetized-archive",
@@ -846,7 +845,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/genesis-widgetized-archive/",
-            "time": "2013-09-05 00:11:16"
+            "time": "2013-09-05T00:11:16+00:00"
         },
         {
             "name": "wpackagist-plugin/google-sitemap-generator",
@@ -867,7 +866,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/google-sitemap-generator/",
-            "time": "2017-07-24 22:56:54"
+            "time": "2017-07-24T22:56:54+00:00"
         },
         {
             "name": "wpackagist-plugin/jetpack",
@@ -888,7 +887,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/jetpack/",
-            "time": "2018-03-06 19:51:42"
+            "time": "2018-03-06T19:51:42+00:00"
         },
         {
             "name": "wpackagist-plugin/lj-maintenance-mode",
@@ -909,7 +908,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/lj-maintenance-mode/",
-            "time": "2017-11-30 11:26:16"
+            "time": "2017-11-30T11:26:16+00:00"
         },
         {
             "name": "wpackagist-plugin/maintenance",
@@ -930,7 +929,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/maintenance/",
-            "time": "2018-02-14 08:50:00"
+            "time": "2018-02-14T08:50:00+00:00"
         },
         {
             "name": "wpackagist-plugin/menu-icons",
@@ -951,7 +950,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/menu-icons/",
-            "time": "2018-03-05 11:51:08"
+            "time": "2018-03-05T11:51:08+00:00"
         },
         {
             "name": "wpackagist-plugin/nginx-helper",
@@ -972,7 +971,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/nginx-helper/",
-            "time": "2017-06-21 12:59:24"
+            "time": "2017-06-21T12:59:24+00:00"
         },
         {
             "name": "wpackagist-plugin/php-code-widget",
@@ -993,7 +992,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/php-code-widget/",
-            "time": "2017-05-10 21:06:01"
+            "time": "2017-05-10T21:06:01+00:00"
         },
         {
             "name": "wpackagist-plugin/post-types-order",
@@ -1014,7 +1013,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/post-types-order/",
-            "time": "2018-01-08 13:40:37"
+            "time": "2018-01-08T13:40:37+00:00"
         },
         {
             "name": "wpackagist-plugin/query-monitor",
@@ -1035,7 +1034,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/query-monitor/",
-            "time": "2017-11-09 22:17:37"
+            "time": "2017-11-09T22:17:37+00:00"
         },
         {
             "name": "wpackagist-plugin/recent-posts-by-category-widget",
@@ -1056,7 +1055,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/recent-posts-by-category-widget/",
-            "time": "2015-08-16 13:59:44"
+            "time": "2015-08-16T13:59:44+00:00"
         },
         {
             "name": "wpackagist-plugin/redirection",
@@ -1077,7 +1076,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/redirection/",
-            "time": "2018-02-18 20:09:36"
+            "time": "2018-02-18T20:09:36+00:00"
         },
         {
             "name": "wpackagist-plugin/regenerate-thumbnails",
@@ -1098,7 +1097,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/regenerate-thumbnails/",
-            "time": "2018-01-28 22:28:25"
+            "time": "2018-01-28T22:28:25+00:00"
         },
         {
             "name": "wpackagist-plugin/revision-control",
@@ -1119,7 +1118,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/revision-control/",
-            "time": "2017-12-13 03:45:11"
+            "time": "2017-12-13T03:45:11+00:00"
         },
         {
             "name": "wpackagist-plugin/rich-text-tags",
@@ -1140,7 +1139,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/rich-text-tags/",
-            "time": "2016-04-12 02:14:21"
+            "time": "2016-04-12T02:14:21+00:00"
         },
         {
             "name": "wpackagist-plugin/scissors-continued",
@@ -1161,7 +1160,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/scissors-continued/",
-            "time": "2011-03-04 20:28:22"
+            "time": "2011-03-04T20:28:22+00:00"
         },
         {
             "name": "wpackagist-plugin/secondary-title",
@@ -1182,7 +1181,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/secondary-title/",
-            "time": "2017-12-15 17:32:16"
+            "time": "2017-12-15T17:32:16+00:00"
         },
         {
             "name": "wpackagist-plugin/simple-custom-css",
@@ -1203,7 +1202,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/simple-custom-css/",
-            "time": "2018-02-17 16:23:13"
+            "time": "2018-02-17T16:23:13+00:00"
         },
         {
             "name": "wpackagist-plugin/simple-pull-quote",
@@ -1224,7 +1223,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/simple-pull-quote/",
-            "time": "2017-11-11 22:56:31"
+            "time": "2017-11-11T22:56:31+00:00"
         },
         {
             "name": "wpackagist-plugin/simple-social-icons",
@@ -1245,7 +1244,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/simple-social-icons/",
-            "time": "2017-02-02 16:50:37"
+            "time": "2017-02-02T16:50:37+00:00"
         },
         {
             "name": "wpackagist-plugin/simply-show-hooks",
@@ -1266,7 +1265,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/simply-show-hooks/",
-            "time": "2016-10-27 09:15:11"
+            "time": "2016-10-27T09:15:11+00:00"
         },
         {
             "name": "wpackagist-plugin/subtitles",
@@ -1287,7 +1286,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/subtitles/",
-            "time": "2017-08-29 04:15:13"
+            "time": "2017-08-29T04:15:13+00:00"
         },
         {
             "name": "wpackagist-plugin/sucuri-scanner",
@@ -1308,7 +1307,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sucuri-scanner/",
-            "time": "2018-03-23 00:13:40"
+            "time": "2018-03-23T00:13:40+00:00"
         },
         {
             "name": "wpackagist-plugin/theme-check",
@@ -1329,7 +1328,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/theme-check/",
-            "time": "2016-12-04 21:19:00"
+            "time": "2016-12-04T21:19:00+00:00"
         },
         {
             "name": "wpackagist-plugin/types",
@@ -1350,7 +1349,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/types/",
-            "time": "2018-03-01 15:15:21"
+            "time": "2018-03-01T15:15:21+00:00"
         },
         {
             "name": "wpackagist-plugin/underconstruction",
@@ -1371,7 +1370,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/underconstruction/",
-            "time": "2017-02-05 23:15:46"
+            "time": "2017-02-05T23:15:46+00:00"
         },
         {
             "name": "wpackagist-plugin/use-google-libraries",
@@ -1392,7 +1391,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/use-google-libraries/",
-            "time": "2017-05-04 00:42:14"
+            "time": "2017-05-04T00:42:14+00:00"
         },
         {
             "name": "wpackagist-plugin/wordfence",
@@ -1413,7 +1412,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordfence/",
-            "time": "2018-03-20 16:13:15"
+            "time": "2018-03-20T16:13:15+00:00"
         },
         {
             "name": "wpackagist-plugin/wordpress-database-reset",
@@ -1434,7 +1433,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordpress-database-reset/",
-            "time": "2015-09-29 02:23:58"
+            "time": "2015-09-29T02:23:58+00:00"
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
@@ -1455,7 +1454,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wordpress-seo/",
-            "time": "2018-03-20 16:19:04"
+            "time": "2018-03-20T16:19:04+00:00"
         },
         {
             "name": "wpackagist-plugin/wp-facebook-open-graph-protocol",
@@ -1476,7 +1475,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-facebook-open-graph-protocol/",
-            "time": "2016-10-27 23:33:38"
+            "time": "2016-10-27T23:33:38+00:00"
         },
         {
             "name": "wpackagist-plugin/wp-migrate-db",
@@ -1497,7 +1496,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-migrate-db/",
-            "time": "2018-01-29 14:28:50"
+            "time": "2018-01-29T14:28:50+00:00"
         },
         {
             "name": "wpackagist-plugin/wp-show-ids",
@@ -1518,7 +1517,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-show-ids/",
-            "time": "2011-09-12 22:13:10"
+            "time": "2011-09-12T22:13:10+00:00"
         },
         {
             "name": "wpackagist-plugin/wp-smushit",
@@ -1539,7 +1538,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-smushit/",
-            "time": "2018-03-21 22:14:21"
+            "time": "2018-03-21T22:14:21+00:00"
         },
         {
             "name": "wpackagist-plugin/wp-super-cache",
@@ -1560,7 +1559,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-super-cache/",
-            "time": "2018-02-14 17:41:39"
+            "time": "2018-02-14T17:41:39+00:00"
         },
         {
             "name": "wpackagist-plugin/yuzo-related-post",
@@ -1581,7 +1580,7 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/yuzo-related-post/",
-            "time": "2018-02-27 06:41:57"
+            "time": "2018-02-27T06:41:57+00:00"
         }
     ],
     "packages-dev": [
@@ -1634,7 +1633,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2018-02-20 21:35:23"
+            "time": "2018-02-20T21:35:23+00:00"
         }
     ],
     "aliases": [],
