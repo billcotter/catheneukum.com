@@ -1,6 +1,17 @@
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
+!web/app/plugins/child-themer
+!web/app/plugins/genesis-extender
+!web/app/plugins/advanced-custom-fields-pro
+
+web/app/themes/*
+!web/app/themes/genesis
+!web/app/themes/outreach-pro
+!web/app/themes/sage
+
+
+
 web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
