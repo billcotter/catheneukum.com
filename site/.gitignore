@@ -4,6 +4,8 @@ web/app/plugins/*
 !web/app/plugins/child-themer
 !web/app/plugins/genesis-extender
 !web/app/plugins/advanced-custom-fields-pro
+!!web/app/plugins/bb-theme-builder
+!!web/app/plugins/bb-plugin
 
 web/app/themes/*
 !web/app/themes/genesis
